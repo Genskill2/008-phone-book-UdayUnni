@@ -132,7 +132,7 @@ void print_usage(char *message, char *progname) {
   printf("delete name\n");
   printf(" Deletes the entry for the name in the database.\n Prints 'no match' if there's no such name.\n");
 }
-18:14
+
 
 entry *
 create_entry_node(char *name, char *phone) {
